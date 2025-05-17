@@ -14,6 +14,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://eventify.vercel.app",
+        "APP_KEY": "base64:W4/CRFYZp4YrCrQ/VT0cBPZPHfSAKJePvlKBlclZ6aM=",
         "APP_NAME": "Eventify",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
